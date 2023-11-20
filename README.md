@@ -18,10 +18,10 @@ sincere apologies for not being able to incorporate responsiveness (the assignme
 
 ## Screenshots
 ![Alt text](<Screenshot (15).png>)
-
+![Alt text](<Screenshot (17).png>)
 ![Alt text](<Screenshot (16).png>)
 
-![Alt text](<Screenshot (17).png>)
+
 
 ## Installation
 
