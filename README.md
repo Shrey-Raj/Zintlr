@@ -21,7 +21,7 @@ sincere apologies for not being able to incorporate responsiveness (the assignme
 
 ![Alt text](<Screenshot (16).png>)
 
-
+![Alt text](<Screenshot (17).png>)
 
 ## Installation
 
