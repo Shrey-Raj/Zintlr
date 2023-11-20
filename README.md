@@ -1,8 +1,32 @@
-# React + Vite
+# Zintlr Assignment Task 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Developed Dashboard UI using the following tech :
 
-Currently, two official plugins are available:
+## Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Ant Design](https://ant.design/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [React](https://reactjs.org/)
+- [ApexCharts](https://apexcharts.com/)
+- [Vite](https://vitejs.dev/)
+
+## Overview
+
+I have laid more focus that the elements are functional . 
+
+sincere apologies for not being able to incorporate responsiveness (the assignment took a toll on the time and effort , kindly consider) 
+
+## Screenshots
+![Alt text](<Screenshot (15).png>)
+
+![Alt text](<Screenshot (16).png>)
+
+
+
+## Installation
+
+1. Clone the repository.
+2. get inside of the repo `cd Zintlr`
+2. Install dependencies using `npm install`.
+3. Run the application with `npm run dev`.
+
